@@ -93,3 +93,57 @@ print(not x) -- false (NOT)
 print(5 == 5) -- true
 print(5 ~= 3) -- true (~= means "not equal")
 print(10 > 5) -- true
+
+## Lesson 5: Conditional Statements (if, else, elseif)
+```lua
+local age = 18
+
+if age >= 18 then
+  print("Adult")
+elseif age >= 13 then
+  print("Teenager")
+else
+  print("Child")
+end
+```
+
+## Lesson 6: Loops (while, for, repeat-until)
+### while (Loop):
+```lua
+local i = 1
+while i <= 5 do
+    print(i)
+    i = i + 1
+end
+```
+
+### for (Loop):
+```lua
+for i = 1, 5 do
+    print(i)
+end
+```
+
+### repeat-until (Loop):
+```lua
+local i = 1
+repeat
+    print(i)
+    i = i + 1
+until i > 5
+```
+
+## Lesson 7: Tables (Arrays & Dictionaries)
+### Array:
+```lua
+local fruits = {"Apple", "Banana", "Orange"}
+print(fruits[1]) -- "Apple" (Index starts at 1)
+
+### Dictionary:
+```lua
+local person = {
+    name = "Mahmoud",
+    age = 21
+    isStudent = true
+}
+print(person.name) -- "Mahmoud"
