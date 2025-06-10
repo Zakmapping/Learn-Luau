@@ -1,3 +1,3 @@
- #  | PlayerName        | RobloxProfile  | Promotion Date | Demotion Date |
+ #  | Channel        | Link  | Logo | EPG id |
 |:--:|:--------------:|:-----:|:----:|:------:|
-| 1  | wilic | [>](https://roblox.com) | height="20" | 2022/9/11 | 2026/9/11 |
+| 1  | Aghapy TV | [>](https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg"/> | AghapyTV.eg |
